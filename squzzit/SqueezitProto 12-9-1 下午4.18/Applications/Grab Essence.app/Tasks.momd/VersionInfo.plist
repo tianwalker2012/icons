@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>Tasks</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>Tasks</key>
+		<dict>
+			<key>MAvailableDay</key>
+			<data>
+			gYrnQQQ9AA/43yHeWyDfELHC6u23tAVH5L9o0TUoXic=
+			</data>
+			<key>MAvailableTime</key>
+			<data>
+			SzpTuPtZnLb8U0fc41LIaJUwVaHt2S2oeTEQZy45fBg=
+			</data>
+			<key>MEnvFlag</key>
+			<data>
+			4qTOwkkNCbt3D2zqW7vSinm/7GSazm51BSEHdwuwl+o=
+			</data>
+			<key>MImageOwner</key>
+			<data>
+			a/SkPTyeUO1I8ijee51hoFqUPWeVWdGJFTuKIXME5kc=
+			</data>
+			<key>MQuotas</key>
+			<data>
+			jGUQRHfDfO7ohqPpWbT26xLYUCvOUgh/lGEYrrx6u/g=
+			</data>
+			<key>MScheduledDay</key>
+			<data>
+			AD6qfROPUh9yMncDhPfYyFcsYgDDmpFrHRzD3kEx6MU=
+			</data>
+			<key>MScheduledTask</key>
+			<data>
+			kaByvBLeuBJqOpooCKxcv9mOnAiMerOSs1cAPAb+Kjw=
+			</data>
+			<key>MTask</key>
+			<data>
+			EpxArdbmWXzgdjrAZkPDWF3gfW65lhBzLoO10yU3RJg=
+			</data>
+			<key>MTaskGroup</key>
+			<data>
+			PgaTCGETxWpRdISzwWWbEtiO5tCIBoQ+UUpXbBKKy1g=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>
